@@ -1,1 +1,6 @@
-# ED-2025-I-CMOS-TTL
+# Lab01 - Comparación de tecnologías CMOS y TTL
+
+## Integrantes 
+
+
+## Informe
