@@ -1,4 +1,4 @@
-# Lab01 - Comparación de tecnologías CMOS y TTL
+# Lab01 - Comparación de tecnologías CMOS vs TTL
 
 ## Integrantes 
 
